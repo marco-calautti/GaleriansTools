@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaleriansCompressor", "GaleriansCompressor\GaleriansCompressor.csproj", "{3D8F4B32-8200-40C5-9C03-8E720DC54490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaleriansPacker", "GaleriansPacker\GaleriansPacker.csproj", "{3D6136F0-6DEA-45D1-BB16-DB9A2BB1D765}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GaleriansDecompressor", "GaleriansDecompressor\GaleriansDecompressor.vcxproj", "{4CD13D88-EE3D-49DB-860D-4DDFBCCE8241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D8F4B32-8200-40C5-9C03-8E720DC54490}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{3D8F4B32-8200-40C5-9C03-8E720DC54490}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{3D8F4B32-8200-40C5-9C03-8E720DC54490}.Debug|Win32.ActiveCfg = Debug|x86
+		{3D8F4B32-8200-40C5-9C03-8E720DC54490}.Debug|Win32.Build.0 = Debug|x86
+		{3D8F4B32-8200-40C5-9C03-8E720DC54490}.Debug|x86.ActiveCfg = Debug|x86
+		{3D8F4B32-8200-40C5-9C03-8E720DC54490}.Debug|x86.Build.0 = Debug|x86
+		{3D8F4B32-8200-40C5-9C03-8E720DC54490}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{3D8F4B32-8200-40C5-9C03-8E720DC54490}.Release|Mixed Platforms.Build.0 = Release|x86
+		{3D8F4B32-8200-40C5-9C03-8E720DC54490}.Release|Win32.ActiveCfg = Release|x86
+		{3D8F4B32-8200-40C5-9C03-8E720DC54490}.Release|Win32.Build.0 = Release|x86
+		{3D8F4B32-8200-40C5-9C03-8E720DC54490}.Release|x86.ActiveCfg = Release|x86
+		{3D8F4B32-8200-40C5-9C03-8E720DC54490}.Release|x86.Build.0 = Release|x86
+		{3D6136F0-6DEA-45D1-BB16-DB9A2BB1D765}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{3D6136F0-6DEA-45D1-BB16-DB9A2BB1D765}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{3D6136F0-6DEA-45D1-BB16-DB9A2BB1D765}.Debug|Win32.ActiveCfg = Debug|x86
+		{3D6136F0-6DEA-45D1-BB16-DB9A2BB1D765}.Debug|Win32.Build.0 = Debug|x86
+		{3D6136F0-6DEA-45D1-BB16-DB9A2BB1D765}.Debug|x86.ActiveCfg = Debug|x86
+		{3D6136F0-6DEA-45D1-BB16-DB9A2BB1D765}.Debug|x86.Build.0 = Debug|x86
+		{3D6136F0-6DEA-45D1-BB16-DB9A2BB1D765}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{3D6136F0-6DEA-45D1-BB16-DB9A2BB1D765}.Release|Mixed Platforms.Build.0 = Release|x86
+		{3D6136F0-6DEA-45D1-BB16-DB9A2BB1D765}.Release|Win32.ActiveCfg = Release|x86
+		{3D6136F0-6DEA-45D1-BB16-DB9A2BB1D765}.Release|Win32.Build.0 = Release|x86
+		{3D6136F0-6DEA-45D1-BB16-DB9A2BB1D765}.Release|x86.ActiveCfg = Release|x86
+		{3D6136F0-6DEA-45D1-BB16-DB9A2BB1D765}.Release|x86.Build.0 = Release|x86
+		{4CD13D88-EE3D-49DB-860D-4DDFBCCE8241}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{4CD13D88-EE3D-49DB-860D-4DDFBCCE8241}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{4CD13D88-EE3D-49DB-860D-4DDFBCCE8241}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4CD13D88-EE3D-49DB-860D-4DDFBCCE8241}.Debug|Win32.Build.0 = Debug|Win32
+		{4CD13D88-EE3D-49DB-860D-4DDFBCCE8241}.Debug|x86.ActiveCfg = Debug|Win32
+		{4CD13D88-EE3D-49DB-860D-4DDFBCCE8241}.Debug|x86.Build.0 = Debug|Win32
+		{4CD13D88-EE3D-49DB-860D-4DDFBCCE8241}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{4CD13D88-EE3D-49DB-860D-4DDFBCCE8241}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{4CD13D88-EE3D-49DB-860D-4DDFBCCE8241}.Release|Win32.ActiveCfg = Release|Win32
+		{4CD13D88-EE3D-49DB-860D-4DDFBCCE8241}.Release|Win32.Build.0 = Release|Win32
+		{4CD13D88-EE3D-49DB-860D-4DDFBCCE8241}.Release|x86.ActiveCfg = Release|Win32
+		{4CD13D88-EE3D-49DB-860D-4DDFBCCE8241}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
